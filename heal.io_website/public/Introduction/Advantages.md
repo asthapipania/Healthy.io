@@ -1,5 +1,5 @@
 # **9. ADVANTAGES:**
-Here are the advantages of Health.io healthcare service
+Here are the advantages of Healthy.io healthcare service
 - Convenient access to healthcare services and medical information anytime, anywhere.
 - User-friendly interface for easy navigation and quick appointment bookings.
 - Timely updates on bed availability at emergency centers for informed decision-making during emergencies.

@@ -14,7 +14,7 @@ Please note we have a [code of conduct](CODE_OF_CONDUCT.md)  please follow it in
 1. Clone the repo
 
 ```sh
- git clone https://github.com/Anishkagupta04/Health.io-HEALTHCARE-WEBSITE-.git
+ git clone https://github.com/Anishkagupta04/Healthy.io-HEALTHCARE-WEBSITE-.git
 ```
 
 2. Run index.html with any browser (example: chrome etc).
@@ -38,17 +38,17 @@ Your involvement helps to improve the project and make it better for everyone. T
 2. **Clone Your Forked Repository:**
     - Clone the forked repository to your local machine using the following command:
     ```sh
-     git clone https://github.com/<your_user_name>/Health.io-HEALTHCARE-WEBSITE-
+     git clone https://github.com/<your_user_name>/Healthy.io-HEALTHCARE-WEBSITE-
     ```
     - Navigate to project folder:
     ```sh
-     cd Health.io-HEALTHCARE-WEBSITE
+     cd Healthy.io-HEALTHCARE-WEBSITE
     ```
 
 3. **Add a reference(remote) to the original repository:**
 
     ```
-    git remote add upstream https://github.com/Anishkagupta04/Health.io-HEALTHCARE-WEBSITE-
+    git remote add upstream https://github.com/Anishkagupta04/Healthy.io-HEALTHCARE-WEBSITE-
     ```
 4. **Check the remotes for this repository.**
     ```
@@ -100,8 +100,8 @@ Your involvement helps to improve the project and make it better for everyone. T
    Launch GitHub Desktop and log in to your GitHub account if you haven't already.
 
 2. **Clone the Repository:**
-   - If you haven't cloned the Health.io-HEALTHCARE-WEBSITE- repository yet, you can do so by clicking on the "File" menu and selecting "Clone Repository."
-   - Choose the Health.io-HEALTHCARE-WEBSITE- repository from the list of repositories on GitHub and clone it to your local machine.
+   - If you haven't cloned the Healthy.io-HEALTHCARE-WEBSITE- repository yet, you can do so by clicking on the "File" menu and selecting "Clone Repository."
+   - Choose the Healthy.io-HEALTHCARE-WEBSITE- repository from the list of repositories on GitHub and clone it to your local machine.
 
 3. **Switch to the Correct Branch:**
    - Ensure you are on the branch that you want to submit a pull request for.
@@ -118,7 +118,7 @@ Your involvement helps to improve the project and make it better for everyone. T
    After committing your changes, click the "Push origin" button in the top right corner of GitHub Desktop to push your changes to your forked repository on GitHub.
 
 7. **Create a Pull Request:**
-  - Go to the GitHub website and navigate to your fork of the Health.io-HEALTHCARE-WEBSITE- repository.
+  - Go to the GitHub website and navigate to your fork of the Healthy.io-HEALTHCARE-WEBSITE- repository.
   - You should see a button to "Compare & pull request" between your fork and the original repository. Click on it.
 
 8. **Review and Submit:**
@@ -126,7 +126,7 @@ Your involvement helps to improve the project and make it better for everyone. T
    - Once you're satisfied, click the "Create pull request" button to submit your pull request.
 
 9. **Wait for Review:**
-    Your pull request will now be available for review by the project maintainers. They may provide feedback or ask for changes before merging your pull request into the main branch of the Health.io-HEALTHCARE-WEBSITE- repository.
+    Your pull request will now be available for review by the project maintainers. They may provide feedback or ask for changes before merging your pull request into the main branch of the Healthy.io-HEALTHCARE-WEBSITE- repository.
 
 ## **Issue Report Process 📌**
 

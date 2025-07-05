@@ -8,7 +8,7 @@
 
 <div align="center">
 
-# <p>Health.io.com</p>
+# <p>Healthy.io.com</p>
 [💬 Join the community on Slack](https://join.slack.com/t/newworkspace-ley5153/shared_invite/zt-2isvflg78-tMexsn50mxdwY4BEJ_W11g)<br>
 
 <i><p>An online platform providing comprehensive information on nearby hospitals and healthcare facilities!</p></i>
@@ -29,11 +29,11 @@
      </thead>
     <tbody>
          <tr>
-            <td><img alt="Stars" src="https://img.shields.io/github/stars/Anishkagupta04/Health.io-HEALTHCARE-WEBSITE-?style=flat&logo=github"/></td>
-             <td><img alt="Forks" src="https://img.shields.io/github/forks/Anishkagupta04/Health.io-HEALTHCARE-WEBSITE-?style=flat&logo=github"/></td>
-            <td><img alt="Issues" src="https://img.shields.io/github/issues/Anishkagupta04/Health.io-HEALTHCARE-WEBSITE-?style=flat&logo=github"/></td>
-            <td><img alt="Open Pull Requests" src="https://img.shields.io/github/issues-pr/Anishkagupta04/Health.io-HEALTHCARE-WEBSITE-?style=flat&logo=github"/></td>
-           <td><img alt="Closed Pull Requests" src="https://img.shields.io/github/issues-pr-closed/Anishkagupta04/Health.io-HEALTHCARE-WEBSITE-?style=flat&color=critical&logo=github"/></td>
+            <td><img alt="Stars" src="https://img.shields.io/github/stars/Anishkagupta04/Healthy.io-HEALTHCARE-WEBSITE-?style=flat&logo=github"/></td>
+             <td><img alt="Forks" src="https://img.shields.io/github/forks/Anishkagupta04/Healthy.io-HEALTHCARE-WEBSITE-?style=flat&logo=github"/></td>
+            <td><img alt="Issues" src="https://img.shields.io/github/issues/Anishkagupta04/Healthy.io-HEALTHCARE-WEBSITE-?style=flat&logo=github"/></td>
+            <td><img alt="Open Pull Requests" src="https://img.shields.io/github/issues-pr/Anishkagupta04/Healthy.io-HEALTHCARE-WEBSITE-?style=flat&logo=github"/></td>
+           <td><img alt="Closed Pull Requests" src="https://img.shields.io/github/issues-pr-closed/Anishkagupta04/Healthy.io-HEALTHCARE-WEBSITE-?style=flat&color=critical&logo=github"/></td>
         </tr>
     </tbody>
 </table>
@@ -71,7 +71,7 @@ It is an online platform which enables you to get information about your nearest
 
 ### Setup and Installation
 
-<p style="font-family:var(--ff-philosopher);">To contribute to the Health.io-HEALTHCARE-WEBSITE repository, follow these steps:</p>
+<p style="font-family:var(--ff-philosopher);">To contribute to the Healthy.io-HEALTHCARE-WEBSITE repository, follow these steps:</p>
 
 1. **Fork the Repository:**
    Click on the "Fork" button on the repository's GitHub page to create a copy of the repository in your GitHub account.
@@ -79,11 +79,11 @@ It is an online platform which enables you to get information about your nearest
 2. **Clone the repository:**
    Clone the forked repository to your local machine using the following command in your terminal.
    ```bash
-   git clone https://github.com/<your-github-username>/Health.io-HEALTHCARE-WEBSITE
+   git clone https://github.com/<your-github-username>/Healthy.io-HEALTHCARE-WEBSITE
    ```
 3. **Add a remote upstream:**
    ```bash
-   git remote add upstream https://github.com/original-owner-username/Health.io-HEALTHCARE-WEBSITE
+   git remote add upstream https://github.com/original-owner-username/Healthy.io-HEALTHCARE-WEBSITE
    ```
 4. **Create a new branch:**
    Create a new branch for your changes. Run the following command in your terminal.
@@ -119,30 +119,30 @@ It is an online platform which enables you to get information about your nearest
 1. _Fork the Repository:_
    Click on the "Fork" button on the repository's GitHub page to create a copy of the repository in your GitHub account.
 
-   ![Screenshot (127)](https://github.com/Anishkagupta04/Health.io-HEALTHCARE-WEBSITE-/assets/105973197/164ba1a7-d42e-4e4d-acbd-4bc81cf387d5)
+   ![Screenshot (127)](https://github.com/Anishkagupta04/Healthy.io-HEALTHCARE-WEBSITE-/assets/105973197/164ba1a7-d42e-4e4d-acbd-4bc81cf387d5)
 
-   ![Screenshot (128)](https://github.com/Anishkagupta04/Health.io-HEALTHCARE-WEBSITE-/assets/105973197/21a47905-69ee-448f-a5c0-71ceb3c694d5)
+   ![Screenshot (128)](https://github.com/Anishkagupta04/Healthy.io-HEALTHCARE-WEBSITE-/assets/105973197/21a47905-69ee-448f-a5c0-71ceb3c694d5)
 
 2. _Clone the repository:_
    Clone the forked repository to your local machine using the following command in your terminal.
 
    ```bash
-   git clone https://github.com/<your-github-username>/Health.io-HEALTHCARE-WEBSITE
+   git clone https://github.com/<your-github-username>/Healthy.io-HEALTHCARE-WEBSITE
    ```
-   ![Screenshot (129)](https://github.com/Anishkagupta04/Health.io-HEALTHCARE-WEBSITE-/assets/105973197/88249cc4-5849-4472-b190-9d9bad2bb236)
+   ![Screenshot (129)](https://github.com/Anishkagupta04/Healthy.io-HEALTHCARE-WEBSITE-/assets/105973197/88249cc4-5849-4472-b190-9d9bad2bb236)
 
 
 3. _Open the project in VS Code:_
    Click on the open with vs code button , to make changes to the code using the text editor.
 
-   ![Screenshot (130)](https://github.com/Anishkagupta04/Health.io-HEALTHCARE-WEBSITE-/assets/105973197/10644887-eb4b-4471-98bb-26e0b1bb4f07)
+   ![Screenshot (130)](https://github.com/Anishkagupta04/Healthy.io-HEALTHCARE-WEBSITE-/assets/105973197/10644887-eb4b-4471-98bb-26e0b1bb4f07)
 
 
 4. _Find the Index.html file:_
    Right click the file mentioned and click on "Open with Live Server"
    This will redirect to the web-browser and load the landing page of the project
 
-   ![Screenshot (133)](https://github.com/Anishkagupta04/Health.io-HEALTHCARE-WEBSITE-/assets/105973197/62044e1a-a644-467d-98ac-eabfac970ed9)
+   ![Screenshot (133)](https://github.com/Anishkagupta04/Healthy.io-HEALTHCARE-WEBSITE-/assets/105973197/62044e1a-a644-467d-98ac-eabfac970ed9)
 
 </details>
 <hr>
@@ -184,7 +184,7 @@ Please note that this project is released with a [Contributor Code of Conduct](.
 
 <p style="font-family:var(--ff-philosopher);font-size:2rem;">We love your input! We want to make contributing to this project as easy and transparent as possible, whether it's.
 
-To contribute to the Health.io-HEALTHCARE-WEBSITE repository using GitHub Desktop, follow these steps:
+To contribute to the Healthy.io-HEALTHCARE-WEBSITE repository using GitHub Desktop, follow these steps:
 
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/tarikul-islam-anik/main/assets/images/Lady%20Beetle.png" width="20" height="20"> Reporting a bug<br>
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/tarikul-islam-anik/main/assets/images/Man%20Technologist%20Light%20Skin%20Tone.png" width="20" height="20" >Discussing the current state of the code<br>
@@ -197,8 +197,8 @@ To contribute to the Health.io-HEALTHCARE-WEBSITE repository using GitHub Deskto
   <h2 style="font-size:3rem;">Our Contributors <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Red%20Heart.png" alt="Red Heart" width="40" height="40" /></h2>
   <h3>Thank you for contributing to our repository</h3>
 
-<a href="https://github.com/Anishkagupta04/Health.io-HEALTHCARE-WEBSITE-/graphs/contributors">
-<img src="https://contributors-img.web.app/image?repo=Anishkagupta04/Health.io-HEALTHCARE-WEBSITE-"/>
+<a href="https://github.com/Anishkagupta04/Healthy.io-HEALTHCARE-WEBSITE-/graphs/contributors">
+<img src="https://contributors-img.web.app/image?repo=Anishkagupta04/Healthy.io-HEALTHCARE-WEBSITE-"/>
 
   </a>
 

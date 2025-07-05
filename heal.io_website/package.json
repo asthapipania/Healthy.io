@@ -1,5 +1,5 @@
 {
-  "name": "Health.io",
+  "name": "Healthy.io",
   "version": "1.0.0",
   "description": "This is an healthcare website.",
   "main": "index.js",
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "github.com/akdrin/Health.io"
+    "url": "github.com/akdrin/Healthy.io"
   },
   "keywords": [
     "healthcare",

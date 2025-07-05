@@ -1,6 +1,6 @@
-Health.io is at the heart of our innovative healthcare platform. Built using modern web technologies such as HTML5, JavaScript, CSS3, and React, Health.io ensures a seamless and engaging experience for users accessing healthcare services and medical information. 
+Healthy.io is at the heart of our innovative healthcare platform. Built using modern web technologies such as HTML5, JavaScript, CSS3, and React, Healthy.io ensures a seamless and engaging experience for users accessing healthcare services and medical information. 
 
-With Health.io, users can conveniently book appointments with top-rated doctors, receive timely updates on emergency bed availability, access regular health updates and informative newsletters, and benefit from streamlined emergency services for prompt assistance when needed.
+With Healthy.io, users can conveniently book appointments with top-rated doctors, receive timely updates on emergency bed availability, access regular health updates and informative newsletters, and benefit from streamlined emergency services for prompt assistance when needed.
 
 ## **Tech Stack** <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/High%20Voltage.png" alt="High Voltage" width="30" height="30" />
 

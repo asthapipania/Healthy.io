@@ -4,7 +4,7 @@ To run the project locally in your System
 2. Clone the repository: Clone the forked repository to your local machine using the following command in your terminal.
 git clone
  ```bash
-   https://github.com/<your-github-username>/Health.io-HEALTHCARE-WEBSITE
+   https://github.com/<your-github-username>/Healthy.io-HEALTHCARE-WEBSITE
    ```
 4. You can make changes in code using the VS code text editor.
 5. Find the Index.html file: Right click the file mentioned and click on "Open with Live Server" This will redirect to the web-browser and load the landing page of the project

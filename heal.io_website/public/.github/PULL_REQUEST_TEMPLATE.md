@@ -18,7 +18,7 @@
 
 ## Checklist
 <!-- [X] - put a cross/X inside [] to check the box -->
-- [ ] I have gone through the [contributing guide](https://github.com/Anishkagupta04/Health.io-HEALTHCARE-WEBSITE-/)
+- [ ] I have gone through the [contributing guide](https://github.com/Anishkagupta04/Healthy.io-HEALTHCARE-WEBSITE-/)
 - [ ] I have updated my branch and synced it with project `main` branch before making this PR
 - [ ] I have performed a self-review of my code
 - [ ] I have tested the changes thoroughly before submitting this pull request.

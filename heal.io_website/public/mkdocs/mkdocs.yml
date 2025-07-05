@@ -1,4 +1,4 @@
-site_name: Health.io
+site_name: Healthy.io
 site_author: Anishka Gupta
 docs_dir: Docs
 
@@ -31,8 +31,8 @@ theme:
   logo: favicon.ico
   favicon: favicon.ico
   
-repo_url: https://github.com/Anishkagupta04/Health.io-HEALTHCARE-WEBSITE-
-repo_name: Health.io
+repo_url: https://github.com/Anishkagupta04/Healthy.io-HEALTHCARE-WEBSITE-
+repo_name: Healthy.io
 
 
 markdown_extensions:
@@ -68,4 +68,4 @@ nav:
   - Conclusion: Conclusion.md
 
 copyright: |
-  &copy; 2024 <a href="https://github.com/Anishkagupta04/Health.io-HEALTHCARE-WEBSITE-"  target="_blank" rel="noopener">Health.io</a>
+  &copy; 2024 <a href="https://github.com/Anishkagupta04/Healthy.io-HEALTHCARE-WEBSITE-"  target="_blank" rel="noopener">Healthy.io</a>
