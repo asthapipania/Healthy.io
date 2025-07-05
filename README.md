@@ -5,14 +5,6 @@ Healthy.io is a cutting-edge web platform that redefines digital healthcare deli
 
 ---
 
-## 🌐 Live Preview  
-> [Coming Soon...]
-
-## 📸 Screenshots  
-Preview of key features:
-
----
-
 ## ✨ Platform Capabilities
 
 ### 🏠 Landing Experience  
@@ -22,13 +14,13 @@ Our meticulously designed landing page welcomes users into a seamless healthcare
 ---
 
 ### 👨‍⚕️ Intelligent Doctor Booking System  
-![Appointment Booking](book_an_appointment.png)  
+![Appointment Booking](real_time_doctor.png)  
 Revolutionizing medical scheduling through a frictionless appointment engine. Users can browse doctors, view real-time availability, and confirm consultations in under 45 seconds.
 
 ---
 
 ### 📰 Medical Intelligence Hub  
-![News Section](real_time_doctor.png)  
+![News Section](news.png)  
 Stay informed with a curated stream of the latest in healthcare innovation. Dynamic news content grouped by specialty ensures patients and professionals stay updated.
 
 ---
@@ -52,7 +44,7 @@ Encrypted access ensures privacy while enabling collaboration with authorized ca
 ---
 
 ### 📝 Smart Consultation Request  
-![Consultation Form](feedback_form.png)  
+![Consultation Form](book_an_appointment.png)  
 An intelligent intake form with conditional logic and symptom-based suggestions. Improves accuracy while reducing time-to-fill by over 60%.
 
 ---
