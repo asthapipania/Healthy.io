@@ -64,23 +64,83 @@ Advanced search with filters for:
 - Location & languages  
 - Availability in real-time  
 
-This ensures smarter, faster, and more personalized provider selection.
+# 🗣️ VoiceAI — Conversational AI for Healthcare  
+*Part of the Healthy.io Platform*
+
+VoiceAI brings seamless patient-doctor interactions to life using cutting-edge open-source speech and vision models. This module enables real-time voice communication between users and an AI-powered virtual doctor — from capturing patient queries to generating multimodal responses with speech and image outputs.
 
 ---
 
-## 🧠 AI-Driven Enhancements
+## 📌 Overview
 
-- **Voice Navigation**: Natural language interface for booking and search.
-- **Image Understanding**: Smart diagnosis and prescription scanning.
-- **Context-Aware UI**: Personalizes interface based on user history and context.
+VoiceAI simulates intelligent, human-like interactions between patients and digital doctors. Built with state-of-the-art open-source AI models, it leverages voice-to-text, vision processing, and speech synthesis to deliver medical advice in a conversational, accessible format.
+
+This component is integrated with the **Healthy.io** platform and designed for scalability, modularity, and real-time interaction.
 
 ---
 
-## 📁 Project Structure
+## 🛠️ Tools & Technologies
 
-```bash
-healthy-io/
-├── heal.io_website/            # Frontend Codebase
-├── multimodal_ai/              # AI (Voice + Image)
-├── *.png                       # UI Screenshots (root directory)
-└── README.md
+| Tool / Library      | Purpose                                 |
+|---------------------|------------------------------------------|
+| **Groq API**        | High-speed AI inference engine           |
+| **OpenAI Whisper**  | Best-in-class open-source transcription  |
+| **LLaMA 3 Vision**  | Multimodal vision + language model       |
+| **gTTS / ElevenLabs**| Text-to-speech for doctor’s responses   |
+| **Gradio**          | Lightweight interactive UI framework     |
+| **Python**          | Core programming language                |
+| **VS Code**         | Development environment                  |
+| **FFmpeg / PortAudio** | Audio input support for STT pipeline  |
+
+---
+
+## 🧠 Architecture Breakdown
+
+The development is split into four modular phases, allowing for incremental integration and testing:
+
+---
+
+### 📍 Phase 1 — Setup the Brain of the Doctor
+
+> Enabling multimodal reasoning and response generation.
+
+- ✅ Configure **Groq API** for optimized model serving  
+- 🖼️ Convert uploaded image inputs to the required format  
+- 🧠 Initialize **LLaMA 3 Vision** to process image + text queries
+
+---
+
+### 🧏 Phase 2 — Enable the Voice of the Patient
+
+> Capture voice input and transcribe into actionable prompts.
+
+- 🎙️ Integrate audio recording using `ffmpeg` and `portaudio`  
+- 🔤 Implement **OpenAI Whisper** for accurate transcription  
+- 📋 Normalize and format output for downstream processing
+
+---
+
+### 🩺 Phase 3 — Generate the Voice of the Doctor
+
+> Turn model responses into human-sounding speech.
+
+- 🔈 Use **gTTS** or **ElevenLabs** to convert text to speech  
+- 📦 Package model output with speaker identity for personalization  
+- 🎧 Return audio response to the Gradio interface
+
+---
+
+### 💻 Phase 4 — Build the VoiceBot UI
+
+> Interface for interaction with a virtual doctor.
+
+- 🧩 Design a **Gradio-based web UI** to:
+  - Record patient queries
+  - Display AI-generated response (text/image/audio)
+  - Reuse session history for context continuity
+
+---
+
+## 🧪 Sample Interaction Flow
+
+
