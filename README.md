@@ -142,6 +142,9 @@ The development is split into four modular phases, allowing for incremental inte
 ---
 ![example](ai_response_1.png)  
 
-## 🧪 Sample Interaction Flow
+## 🏗️ Technical Architecture Overview
 
+This section outlines how various components work together to deliver a seamless voice-based AI consultation system.
+
+![Technical Architecture ](Technical_Architecture.jpeg)  
 
