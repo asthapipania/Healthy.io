@@ -2,7 +2,7 @@
 
 We love your input! We want to make contributing to this project as easy and transparent as possible, whether it's.
 
-To contribute to the RAPIDOC-HEALTHCARE-WEBSITE repository using GitHub Desktop, follow these steps:
+To contribute to the Health.io-HEALTHCARE-WEBSITE repository using GitHub Desktop, follow these steps:
 
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/tarikul-islam-anik/main/assets/images/Lady%20Beetle.png" width="20" height="20"> Reporting a bug
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/tarikul-islam-anik/main/assets/images/Man%20Technologist%20Light%20Skin%20Tone.png" width="20" height="20" > Discussing the current state of the code
@@ -13,7 +13,7 @@ To contribute to the RAPIDOC-HEALTHCARE-WEBSITE repository using GitHub Desktop,
 
 ## Thank you for contributing to our repository
 
-[![Contributors](https://contributors-img.web.app/image?repo=Anishkagupta04/RAPIDOC-HEALTHCARE-WEBSITE-)](https://github.com/Anishkagupta04/RAPIDOC-HEALTHCARE-WEBSITE-/graphs/contributors)
+[![Contributors](https://contributors-img.web.app/image?repo=Anishkagupta04/Health.io-HEALTHCARE-WEBSITE-)](https://github.com/Anishkagupta04/Health.io-HEALTHCARE-WEBSITE-/graphs/contributors)
 
 ## Show some <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Red%20Heart.png" alt="Red Heart" width="30" height="30" /> by starring this awesome repository!
 

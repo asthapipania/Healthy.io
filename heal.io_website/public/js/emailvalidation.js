@@ -29,7 +29,7 @@ emailjs.init("Your_User_ID"); // Replace with your actual EmailJS User ID
                 // Prepare the parameters to send
                 var templateParams = {
                     to_email: email, // Set the recipient's email
-                    from_name: 'Rapidoc', // Replace with your company or your name
+                    from_name: 'Health.io', // Replace with your company or your name
                     to_name: 'Subscriber',
                     message: 'Thank you for subscribing to our newsletter!'
                 };

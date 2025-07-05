@@ -1,6 +1,6 @@
 # ⛔ Disadvantages
 
-These are the disadvantages of RapiDoc healthcare service:
+These are the disadvantages of Health.io healthcare service:
 
 - **Potential privacy concerns:** There may be concerns related to storing personal health information online.
 
