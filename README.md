@@ -140,6 +140,7 @@ The development is split into four modular phases, allowing for incremental inte
   - Reuse session history for context continuity
 
 ---
+![example](ai_response_1.png)  
 
 ## 🧪 Sample Interaction Flow
 
